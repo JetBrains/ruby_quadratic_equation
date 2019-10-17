@@ -1,0 +1,1 @@
+A script for solving quadratic equations used for demonstrating the [RubyMine debugger](https://blog.jetbrains.com/ruby/2019/06/debugging-in-rubymine/).
